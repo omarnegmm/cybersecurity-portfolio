@@ -16,9 +16,14 @@ See Projects folder.
 Security analysis and vulnerability reports.
 
 ## Certificates
-Courses and certifications.
+• Computer Networks 1 
+• Introduction to Network Security 2 
+• Cryptography Basics (Mahara Tech-ITI) 
+• Introduction to cybersecurity (CISCO academy) 
+• SOC fundamentals (Netriders) 
+• Cybersecurity fundamentals (IBM skills build)
 
 ## Contact
-- LinkedIn:
-- Email:
+- LinkedIn: www.linkedin.com/in/omar-negm-89a2952b5
+- Email: onegm375@gmail.com
 
